@@ -12,7 +12,6 @@ func main(){
 
 	isPrime := true
 	number := rand.Intn(150) + 2
-	//number = 21
 	fmt.Println("임의로 추출된 수 : ", number)
 
 }
